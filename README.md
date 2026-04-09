@@ -3,9 +3,9 @@
 💻 Programming Student | Focused on C++ & C# <br>
 🇵🇹 Portugal
 
-I’m currently focused on learning C++ and C#, building a strong foundation in programming, problem-solving, and software development.
+📖 I’m currently focused on learning C++ and C#, building a strong foundation in programming, problem-solving, and software development.
 
-I’m interested in performance, clean code, and system design, and I’m continuously improving through projects and practice.
+💡 I’m interested in performance, clean code, and system design, and I’m continuously improving through projects and practice.
 
 ---
 
