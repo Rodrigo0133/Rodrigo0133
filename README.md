@@ -13,7 +13,7 @@ I’m interested in performance, clean code, and system design, and I’m contin
 
 <p align="left">
   <a href="https://github.com/Rodrigo0133">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Rodrigo0133-181717?style=for-the-badge&logo=github" />
   </a>
 
   <a href="https://discord.com/users/909484046415970354">
@@ -41,13 +41,6 @@ I’m interested in performance, clean code, and system design, and I’m contin
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodrigo0133&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo0133&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
