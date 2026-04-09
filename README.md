@@ -15,6 +15,10 @@ I’m interested in performance, clean code, and system design, and I’m contin
   <a href="https://github.com/Rodrigo0133">
     <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
   </a>
+
+  <a href="https://discord.com/users/909484046415970354">
+    <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
