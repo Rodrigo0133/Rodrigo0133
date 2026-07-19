@@ -38,7 +38,7 @@
   <tr>
     <td align="center"><strong>Web Development</strong></td>
     <td align="center"><strong>Programming & Tools</strong></td>
-    td align="center"><strong>Another Languages</strong></tr>
+    <td> align="center"><strong>Another Languages</strong></tr>
   </tr>
   <tr>
     <td align="center">
