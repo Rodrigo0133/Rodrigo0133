@@ -47,7 +47,7 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+      <img width="100" height="100" alt="VisualCode" src="https://github.com/user-attachments/assets/31d896a5-a07b-4b7f-b675-fe4cc801e794" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
