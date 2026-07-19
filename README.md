@@ -37,21 +37,21 @@
 <table>
   <tr>
     <td align="center"><strong>Web Development</strong></td>
-    <td align="center"><strong>Programming & Tools</strong></td>
+    <td align="center"><strong>Tools</strong></td>
     <td align="center"><strong>Another Languages</strong></tr>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img width="40" height="40" alt="html" src="https://github.com/user-attachments/assets/bc27344d-b57a-4f32-9706-acf0c6d04934" />
+      <img width="40" height="40" alt="css" src="https://github.com/user-attachments/assets/8a2a9183-d38a-4d45-8fce-cdfa728c217a" />
+      <img width="40" height="40" alt="js" src="https://github.com/user-attachments/assets/3f53f13a-fdc9-44ff-a1c2-65c162f1cc6d" />
     </td>
     <td align="center">
-      <img width="100" height="100" alt="VisualCode" src="https://github.com/user-attachments/assets/31d896a5-a07b-4b7f-b675-fe4cc801e794" />
+      <img width="40" height="40" alt="VisualCode" src="https://github.com/user-attachments/assets/31d896a5-a07b-4b7f-b675-fe4cc801e794" />
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+    <td align = "center">
+      <img width="40" height="40" alt="C++" src="https://github.com/user-attachments/assets/03e1042d-f232-4841-8293-448778d2e443" />
+      <img width="40" height="40"  alt="Csharp" src="https://github.com/user-attachments/assets/8832aff5-1b54-4e01-9a9c-cdd083568454" />
     </td>
   </tr>
 </table>
