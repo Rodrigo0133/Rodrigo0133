@@ -38,20 +38,25 @@
   <tr>
     <td align="center"><strong>Web Development</strong></td>
     <td align="center"><strong>Tools</strong></td>
-    <td align="center"><strong>Another Languages</strong></tr>
+    <td align="center"><strong>Other Languages</strong></td>
   </tr>
+
   <tr>
     <td align="center">
-      <img width="40" height="40" alt="html" src="https://github.com/user-attachments/assets/bc27344d-b57a-4f32-9706-acf0c6d04934" />
-      <img width="40" height="40" alt="css" src="https://github.com/user-attachments/assets/8a2a9183-d38a-4d45-8fce-cdfa728c217a" />
-      <img width="40" height="40" alt="js" src="https://github.com/user-attachments/assets/3f53f13a-fdc9-44ff-a1c2-65c162f1cc6d" />
+      <img width="40" height="40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+      <img width="40" height="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+      <img width="40" height="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+      <img width="40" height="40" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+      <img width="40" height="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+      <img width="40" height="40" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
     </td>
     <td align="center">
-      <img width="40" height="40" alt="VisualCode" src="https://github.com/user-attachments/assets/31d896a5-a07b-4b7f-b675-fe4cc801e794" />
+      <img width="40" height="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+      <img width="40" height="40" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
     </td>
-    <td align = "center">
-      <img width="40" height="40" alt="C++" src="https://github.com/user-attachments/assets/03e1042d-f232-4841-8293-448778d2e443" />
-      <img width="40" height="40"  alt="Csharp" src="https://github.com/user-attachments/assets/8832aff5-1b54-4e01-9a9c-cdd083568454" />
+    <td align="center">
+      <img width="40" height="40" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+      <img width="40" height="40" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
     </td>
   </tr>
 </table>
