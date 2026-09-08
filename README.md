@@ -61,8 +61,29 @@
   </tr>
 </table>
 
----
+## 📊 GitHub Stats
 
+<div align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=Rodrigo0133">
+    <img
+      height="180"
+      width="48%"
+      src="https://github-stats-extended.vercel.app/api?username=Rodrigo0133&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"
+      alt="GitHub statistics"
+    />
+  </a>
+
+  <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=Rodrigo0133">
+    <img
+      height="180"
+      width="48%"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rodrigo0133&layout=compact&langs_count=4&hide=ASP.NET,ShaderLab,HLSL"
+      alt="Most used programming languages"
+    />
+  </a>
+</div>
+
+---
 ## 🚀 Philosophy
 
 > _"Code is not just about solving problems.  
