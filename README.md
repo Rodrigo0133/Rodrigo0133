@@ -77,7 +77,7 @@
     <img
       height="180"
       width="48%"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rodrigo0133&layout=compact&langs_count=4&hide=ASP.NET,ShaderLab,HLSL"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rodrigo0133&layout=compact&theme=calm&langs_count=4&hide=ASP.NET,ShaderLab,HLSL"
       alt="Most used programming languages"
     />
   </a>
